@@ -1,0 +1,1129 @@
+14.12.2021 22:47:32.264 [main] INFO:
+User input: 2 (new game)
+14.12.2021 22:47:32.301 [main] INFO:
+Game load
+14.12.2021 22:47:32.305 [main] INFO:
+Field:
+Card 0:
+START_CARD
+Money for cycle: 1000
+
+Card 1:
+CARD_WITH_PROPERTY
+No owner
+Price: 120
+House price: 55
+Houses: 0
+With houses: 0	Taxes: 55
+With houses: 1	Taxes: 110
+With houses: 2	Taxes: 330
+
+Card 2:
+CARD_WITH_PROPERTY
+Owner: Player 1
+Price: 160
+House price: 65
+Houses: 0
+With houses: 0	Taxes: 65
+With houses: 1	Taxes: 130
+With houses: 2	Taxes: 390
+
+Card 3:
+CARD_WITH_PROPERTY
+Owner: Player 3
+Price: 160
+House price: 50
+Houses: 0
+With houses: 0	Taxes: 50
+With houses: 1	Taxes: 100
+With houses: 2	Taxes: 300
+
+Card 4:
+GO_TO_JAIL_CARD
+
+Card 5:
+CARD_WITH_PROPERTY
+Owner: Player 1
+Price: 140
+House price: 60
+Houses: 0
+With houses: 0	Taxes: 60
+With houses: 1	Taxes: 120
+With houses: 2	Taxes: 360
+
+Card 6:
+CARD_WITH_PROPERTY
+Owner: Player 1
+Price: 110
+House price: 40
+Houses: 0
+With houses: 0	Taxes: 40
+With houses: 1	Taxes: 80
+With houses: 2	Taxes: 240
+Player 1 on card
+
+Card 7:
+CARD_WITH_PROPERTY
+Owner: Player 2
+Price: 140
+House price: 75
+Houses: 0
+With houses: 0	Taxes: 75
+With houses: 1	Taxes: 150
+With houses: 2	Taxes: 450
+
+Card 8:
+JAIL_CARD
+Player 3 on card
+Player 2 on card
+
+Card 9:
+CARD_WITH_PROPERTY
+Owner: Player 2
+Price: 180
+House price: 55
+Houses: 0
+With houses: 0	Taxes: 55
+With houses: 1	Taxes: 110
+With houses: 2	Taxes: 330
+
+Card 10:
+CARD_WITH_PROPERTY
+Owner: Player 3
+Price: 130
+House price: 75
+Houses: 0
+With houses: 0	Taxes: 75
+With houses: 1	Taxes: 150
+With houses: 2	Taxes: 450
+
+Card 11:
+CARD_WITH_PROPERTY
+No owner
+Price: 180
+House price: 35
+Houses: 0
+With houses: 0	Taxes: 35
+With houses: 1	Taxes: 70
+With houses: 2	Taxes: 210
+
+Card 12:
+GO_TO_JAIL_CARD
+
+Card 13:
+CARD_WITH_PROPERTY
+No owner
+Price: 110
+House price: 60
+Houses: 0
+With houses: 0	Taxes: 60
+With houses: 1	Taxes: 120
+With houses: 2	Taxes: 360
+
+Card 14:
+CARD_WITH_PROPERTY
+Owner: Player 2
+Price: 170
+House price: 70
+Houses: 0
+With houses: 0	Taxes: 70
+With houses: 1	Taxes: 140
+With houses: 2	Taxes: 420
+
+Card 15:
+CARD_WITH_PROPERTY
+No owner
+Price: 190
+House price: 70
+Houses: 0
+With houses: 0	Taxes: 70
+With houses: 1	Taxes: 140
+With houses: 2	Taxes: 420
+
+Players:
+Player 0:
+LOST
+Player 1:
+NORMAL
+Balance: 0
+Own cards: 3
+Player 2:
+NORMAL
+Balance: 75
+Own cards: 3
+Player 3:
+NORMAL
+Balance: 760
+Own cards: 2
+
+14.12.2021 22:47:33.187 [main] INFO:
+User input: 1 (next turn)
+14.12.2021 22:47:33.188 [main] INFO:
+Player 3 turn:
+Dices: 5
+Step on Card 13:
+CARD_WITH_PROPERTY
+No owner
+Price: 110
+House price: 60
+Houses: 0
+With houses: 0	Taxes: 60
+With houses: 1	Taxes: 120
+With houses: 2	Taxes: 360
+Buy this card
+
+14.12.2021 22:47:33.679 [main] INFO:
+User input: 1 (next turn)
+14.12.2021 22:47:33.680 [main] INFO:
+Player 1 turn:
+Dices: 2
+Step on Card 8:
+JAIL_CARD
+Player 2 on card
+
+14.12.2021 22:47:34.164 [main] INFO:
+User input: 1 (next turn)
+14.12.2021 22:47:34.164 [main] INFO:
+Player 2 turn:
+Dices: 2
+Step on Card 10:
+CARD_WITH_PROPERTY
+Owner: Player 3
+Price: 130
+House price: 75
+Houses: 0
+With houses: 0	Taxes: 75
+With houses: 1	Taxes: 150
+With houses: 2	Taxes: 450
+Pay taxes to Player 3
+
+14.12.2021 22:47:34.615 [main] INFO:
+User input: 1 (next turn)
+14.12.2021 22:47:34.615 [main] INFO:
+Player 3 turn:
+Dices: 1
+Step on Card 14:
+CARD_WITH_PROPERTY
+Owner: Player 2
+Price: 170
+House price: 70
+Houses: 0
+With houses: 0	Taxes: 70
+With houses: 1	Taxes: 140
+With houses: 2	Taxes: 420
+Pay taxes to Player 2
+
+14.12.2021 22:47:35.105 [main] INFO:
+User input: 1 (next turn)
+14.12.2021 22:47:35.105 [main] INFO:
+Player 1 turn:
+Dices: 5
+Step on Card 13:
+CARD_WITH_PROPERTY
+Owner: Player 3
+Price: 110
+House price: 60
+Houses: 0
+With houses: 0	Taxes: 60
+With houses: 1	Taxes: 120
+With houses: 2	Taxes: 360
+Can't pay taxes!
+Sell card for 160
+Pay taxes to Player 3
+
+14.12.2021 22:47:35.601 [main] INFO:
+User input: 1 (next turn)
+14.12.2021 22:47:35.601 [main] INFO:
+Player 2 turn:
+Dices: 1
+Step on Card 11:
+CARD_WITH_PROPERTY
+No owner
+Price: 180
+House price: 35
+Houses: 0
+With houses: 0	Taxes: 35
+With houses: 1	Taxes: 70
+With houses: 2	Taxes: 210
+Can't pay for card/house
+
+14.12.2021 22:47:36.122 [main] INFO:
+User input: 1 (next turn)
+14.12.2021 22:47:36.122 [main] INFO:
+Player 3 turn:
+Dices: 3
+New cycle! +1000
+Step on Card 1:
+CARD_WITH_PROPERTY
+No owner
+Price: 120
+House price: 55
+Houses: 0
+With houses: 0	Taxes: 55
+With houses: 1	Taxes: 110
+With houses: 2	Taxes: 330
+Buy this card
+
+14.12.2021 22:47:36.801 [main] INFO:
+User input: 2 (show field)
+14.12.2021 22:47:36.801 [main] INFO:
+Field:
+Card 0:
+START_CARD
+Money for cycle: 1000
+
+Card 1:
+CARD_WITH_PROPERTY
+Owner: Player 3
+Price: 120
+House price: 55
+Houses: 0
+With houses: 0	Taxes: 55
+With houses: 1	Taxes: 110
+With houses: 2	Taxes: 330
+Player 3 on card
+
+Card 2:
+CARD_WITH_PROPERTY
+No owner
+Price: 160
+House price: 65
+Houses: 0
+With houses: 0	Taxes: 65
+With houses: 1	Taxes: 130
+With houses: 2	Taxes: 390
+
+Card 3:
+CARD_WITH_PROPERTY
+Owner: Player 3
+Price: 160
+House price: 50
+Houses: 0
+With houses: 0	Taxes: 50
+With houses: 1	Taxes: 100
+With houses: 2	Taxes: 300
+
+Card 4:
+GO_TO_JAIL_CARD
+
+Card 5:
+CARD_WITH_PROPERTY
+Owner: Player 1
+Price: 140
+House price: 60
+Houses: 0
+With houses: 0	Taxes: 60
+With houses: 1	Taxes: 120
+With houses: 2	Taxes: 360
+
+Card 6:
+CARD_WITH_PROPERTY
+Owner: Player 1
+Price: 110
+House price: 40
+Houses: 0
+With houses: 0	Taxes: 40
+With houses: 1	Taxes: 80
+With houses: 2	Taxes: 240
+
+Card 7:
+CARD_WITH_PROPERTY
+Owner: Player 2
+Price: 140
+House price: 75
+Houses: 0
+With houses: 0	Taxes: 75
+With houses: 1	Taxes: 150
+With houses: 2	Taxes: 450
+
+Card 8:
+JAIL_CARD
+
+Card 9:
+CARD_WITH_PROPERTY
+Owner: Player 2
+Price: 180
+House price: 55
+Houses: 0
+With houses: 0	Taxes: 55
+With houses: 1	Taxes: 110
+With houses: 2	Taxes: 330
+
+Card 10:
+CARD_WITH_PROPERTY
+Owner: Player 3
+Price: 130
+House price: 75
+Houses: 0
+With houses: 0	Taxes: 75
+With houses: 1	Taxes: 150
+With houses: 2	Taxes: 450
+
+Card 11:
+CARD_WITH_PROPERTY
+No owner
+Price: 180
+House price: 35
+Houses: 0
+With houses: 0	Taxes: 35
+With houses: 1	Taxes: 70
+With houses: 2	Taxes: 210
+Player 2 on card
+
+Card 12:
+GO_TO_JAIL_CARD
+
+Card 13:
+CARD_WITH_PROPERTY
+Owner: Player 3
+Price: 110
+House price: 60
+Houses: 0
+With houses: 0	Taxes: 60
+With houses: 1	Taxes: 120
+With houses: 2	Taxes: 360
+Player 1 on card
+
+Card 14:
+CARD_WITH_PROPERTY
+Owner: Player 2
+Price: 170
+House price: 70
+Houses: 0
+With houses: 0	Taxes: 70
+With houses: 1	Taxes: 140
+With houses: 2	Taxes: 420
+
+Card 15:
+CARD_WITH_PROPERTY
+No owner
+Price: 190
+House price: 70
+Houses: 0
+With houses: 0	Taxes: 70
+With houses: 1	Taxes: 140
+With houses: 2	Taxes: 420
+
+Players:
+Player 0:
+LOST
+Player 1:
+NORMAL
+Balance: 100
+Own cards: 2
+Player 2:
+NORMAL
+Balance: 70
+Own cards: 3
+Player 3:
+NORMAL
+Balance: 595
+Own cards: 4
+
+14.12.2021 22:47:38.307 [main] INFO:
+User input: 3 (save game)
+14.12.2021 22:47:38.329 [main] INFO:
+Game saved
+14.12.2021 22:47:38.929 [main] INFO:
+User input: 1 (next turn)
+14.12.2021 22:47:38.929 [main] INFO:
+Player 1 turn:
+Dices: 1
+Step on Card 14:
+CARD_WITH_PROPERTY
+Owner: Player 2
+Price: 170
+House price: 70
+Houses: 0
+With houses: 0	Taxes: 70
+With houses: 1	Taxes: 140
+With houses: 2	Taxes: 420
+Pay taxes to Player 2
+
+14.12.2021 22:49:44.901 [main] INFO:
+User input: 1 (load game)
+14.12.2021 22:49:44.905 [main] INFO:
+New game started
+14.12.2021 22:49:44.908 [main] INFO:
+Field:
+Card 0:
+START_CARD
+Money for cycle: 1000
+Player 0 on card
+Player 1 on card
+Player 2 on card
+Player 3 on card
+
+Card 1:
+CARD_WITH_PROPERTY
+No owner
+Price: 180
+House price: 65
+Houses: 0
+With houses: 0	Taxes: 65
+With houses: 1	Taxes: 130
+With houses: 2	Taxes: 390
+
+Card 2:
+CARD_WITH_PROPERTY
+No owner
+Price: 180
+House price: 30
+Houses: 0
+With houses: 0	Taxes: 30
+With houses: 1	Taxes: 60
+With houses: 2	Taxes: 180
+
+Card 3:
+CARD_WITH_PROPERTY
+No owner
+Price: 120
+House price: 65
+Houses: 0
+With houses: 0	Taxes: 65
+With houses: 1	Taxes: 130
+With houses: 2	Taxes: 390
+
+Card 4:
+GO_TO_JAIL_CARD
+
+Card 5:
+CARD_WITH_PROPERTY
+No owner
+Price: 130
+House price: 45
+Houses: 0
+With houses: 0	Taxes: 45
+With houses: 1	Taxes: 90
+With houses: 2	Taxes: 270
+
+Card 6:
+CARD_WITH_PROPERTY
+No owner
+Price: 110
+House price: 30
+Houses: 0
+With houses: 0	Taxes: 30
+With houses: 1	Taxes: 60
+With houses: 2	Taxes: 180
+
+Card 7:
+CARD_WITH_PROPERTY
+No owner
+Price: 110
+House price: 55
+Houses: 0
+With houses: 0	Taxes: 55
+With houses: 1	Taxes: 110
+With houses: 2	Taxes: 330
+
+Card 8:
+JAIL_CARD
+
+Card 9:
+CARD_WITH_PROPERTY
+No owner
+Price: 140
+House price: 40
+Houses: 0
+With houses: 0	Taxes: 40
+With houses: 1	Taxes: 80
+With houses: 2	Taxes: 240
+
+Card 10:
+CARD_WITH_PROPERTY
+No owner
+Price: 180
+House price: 30
+Houses: 0
+With houses: 0	Taxes: 30
+With houses: 1	Taxes: 60
+With houses: 2	Taxes: 180
+
+Card 11:
+CARD_WITH_PROPERTY
+No owner
+Price: 110
+House price: 40
+Houses: 0
+With houses: 0	Taxes: 40
+With houses: 1	Taxes: 80
+With houses: 2	Taxes: 240
+
+Card 12:
+GO_TO_JAIL_CARD
+
+Card 13:
+CARD_WITH_PROPERTY
+No owner
+Price: 190
+House price: 70
+Houses: 0
+With houses: 0	Taxes: 70
+With houses: 1	Taxes: 140
+With houses: 2	Taxes: 420
+
+Card 14:
+CARD_WITH_PROPERTY
+No owner
+Price: 160
+House price: 30
+Houses: 0
+With houses: 0	Taxes: 30
+With houses: 1	Taxes: 60
+With houses: 2	Taxes: 180
+
+Card 15:
+CARD_WITH_PROPERTY
+No owner
+Price: 100
+House price: 45
+Houses: 0
+With houses: 0	Taxes: 45
+With houses: 1	Taxes: 90
+With houses: 2	Taxes: 270
+
+Players:
+Player 0:
+NORMAL
+Balance: 2000
+Own cards: 0
+Player 1:
+NORMAL
+Balance: 2000
+Own cards: 0
+Player 2:
+NORMAL
+Balance: 2000
+Own cards: 0
+Player 3:
+NORMAL
+Balance: 2000
+Own cards: 0
+
+14.12.2021 22:49:45.352 [main] INFO:
+User input: 1 (next turn)
+14.12.2021 22:49:45.352 [main] INFO:
+Player 0 turn:
+Dices: 2
+Step on Card 2:
+CARD_WITH_PROPERTY
+No owner
+Price: 180
+House price: 30
+Houses: 0
+With houses: 0	Taxes: 30
+With houses: 1	Taxes: 60
+With houses: 2	Taxes: 180
+Buy this card
+
+14.12.2021 22:49:45.829 [main] INFO:
+User input: 1 (next turn)
+14.12.2021 22:49:45.829 [main] INFO:
+Player 1 turn:
+Dices: 5
+Step on Card 5:
+CARD_WITH_PROPERTY
+No owner
+Price: 130
+House price: 45
+Houses: 0
+With houses: 0	Taxes: 45
+With houses: 1	Taxes: 90
+With houses: 2	Taxes: 270
+Buy this card
+
+14.12.2021 22:49:46.722 [main] INFO:
+User input: 2 (show field)
+14.12.2021 22:49:46.722 [main] INFO:
+Field:
+Card 0:
+START_CARD
+Money for cycle: 1000
+Player 2 on card
+Player 3 on card
+
+Card 1:
+CARD_WITH_PROPERTY
+No owner
+Price: 180
+House price: 65
+Houses: 0
+With houses: 0	Taxes: 65
+With houses: 1	Taxes: 130
+With houses: 2	Taxes: 390
+
+Card 2:
+CARD_WITH_PROPERTY
+Owner: Player 0
+Price: 180
+House price: 30
+Houses: 0
+With houses: 0	Taxes: 30
+With houses: 1	Taxes: 60
+With houses: 2	Taxes: 180
+Player 0 on card
+
+Card 3:
+CARD_WITH_PROPERTY
+No owner
+Price: 120
+House price: 65
+Houses: 0
+With houses: 0	Taxes: 65
+With houses: 1	Taxes: 130
+With houses: 2	Taxes: 390
+
+Card 4:
+GO_TO_JAIL_CARD
+
+Card 5:
+CARD_WITH_PROPERTY
+Owner: Player 1
+Price: 130
+House price: 45
+Houses: 0
+With houses: 0	Taxes: 45
+With houses: 1	Taxes: 90
+With houses: 2	Taxes: 270
+Player 1 on card
+
+Card 6:
+CARD_WITH_PROPERTY
+No owner
+Price: 110
+House price: 30
+Houses: 0
+With houses: 0	Taxes: 30
+With houses: 1	Taxes: 60
+With houses: 2	Taxes: 180
+
+Card 7:
+CARD_WITH_PROPERTY
+No owner
+Price: 110
+House price: 55
+Houses: 0
+With houses: 0	Taxes: 55
+With houses: 1	Taxes: 110
+With houses: 2	Taxes: 330
+
+Card 8:
+JAIL_CARD
+
+Card 9:
+CARD_WITH_PROPERTY
+No owner
+Price: 140
+House price: 40
+Houses: 0
+With houses: 0	Taxes: 40
+With houses: 1	Taxes: 80
+With houses: 2	Taxes: 240
+
+Card 10:
+CARD_WITH_PROPERTY
+No owner
+Price: 180
+House price: 30
+Houses: 0
+With houses: 0	Taxes: 30
+With houses: 1	Taxes: 60
+With houses: 2	Taxes: 180
+
+Card 11:
+CARD_WITH_PROPERTY
+No owner
+Price: 110
+House price: 40
+Houses: 0
+With houses: 0	Taxes: 40
+With houses: 1	Taxes: 80
+With houses: 2	Taxes: 240
+
+Card 12:
+GO_TO_JAIL_CARD
+
+Card 13:
+CARD_WITH_PROPERTY
+No owner
+Price: 190
+House price: 70
+Houses: 0
+With houses: 0	Taxes: 70
+With houses: 1	Taxes: 140
+With houses: 2	Taxes: 420
+
+Card 14:
+CARD_WITH_PROPERTY
+No owner
+Price: 160
+House price: 30
+Houses: 0
+With houses: 0	Taxes: 30
+With houses: 1	Taxes: 60
+With houses: 2	Taxes: 180
+
+Card 15:
+CARD_WITH_PROPERTY
+No owner
+Price: 100
+House price: 45
+Houses: 0
+With houses: 0	Taxes: 45
+With houses: 1	Taxes: 90
+With houses: 2	Taxes: 270
+
+Players:
+Player 0:
+NORMAL
+Balance: 1820
+Own cards: 1
+Player 1:
+NORMAL
+Balance: 1870
+Own cards: 1
+Player 2:
+NORMAL
+Balance: 2000
+Own cards: 0
+Player 3:
+NORMAL
+Balance: 2000
+Own cards: 0
+
+14.12.2021 22:49:48.159 [main] INFO:
+User input: 3 (save game)
+14.12.2021 22:49:48.179 [main] INFO:
+Game saved
+14.12.2021 22:49:49.086 [main] INFO:
+User input: 1 (next turn)
+14.12.2021 22:49:49.087 [main] INFO:
+Player 2 turn:
+Dices: 4
+Step on Card 4:
+GO_TO_JAIL_CARD
+Go to jail!
+
+14.12.2021 22:55:54.994 [main] INFO:
+User input: 2 (new game)
+14.12.2021 22:55:55.020 [main] INFO:
+Game load
+14.12.2021 22:55:55.023 [main] INFO:
+Field:
+Card 0:
+START_CARD
+Money for cycle: 300
+Player 2 on card
+Player 3 on card
+
+Card 1:
+CARD_WITH_PROPERTY
+No owner
+Price: 180
+House price: 65
+Houses: 0
+With houses: 0	Taxes: 65
+With houses: 1	Taxes: 130
+With houses: 2	Taxes: 390
+
+Card 2:
+CARD_WITH_PROPERTY
+Owner: Player 0
+Price: 180
+House price: 30
+Houses: 0
+With houses: 0	Taxes: 30
+With houses: 1	Taxes: 60
+With houses: 2	Taxes: 180
+Player 0 on card
+
+Card 3:
+CARD_WITH_PROPERTY
+No owner
+Price: 120
+House price: 65
+Houses: 0
+With houses: 0	Taxes: 65
+With houses: 1	Taxes: 130
+With houses: 2	Taxes: 390
+
+Card 4:
+GO_TO_JAIL_CARD
+
+Card 5:
+CARD_WITH_PROPERTY
+Owner: Player 1
+Price: 130
+House price: 45
+Houses: 0
+With houses: 0	Taxes: 45
+With houses: 1	Taxes: 90
+With houses: 2	Taxes: 270
+Player 1 on card
+
+Card 6:
+CARD_WITH_PROPERTY
+No owner
+Price: 110
+House price: 30
+Houses: 0
+With houses: 0	Taxes: 30
+With houses: 1	Taxes: 60
+With houses: 2	Taxes: 180
+
+Card 7:
+CARD_WITH_PROPERTY
+No owner
+Price: 110
+House price: 55
+Houses: 0
+With houses: 0	Taxes: 55
+With houses: 1	Taxes: 110
+With houses: 2	Taxes: 330
+
+Card 8:
+JAIL_CARD
+
+Card 9:
+CARD_WITH_PROPERTY
+No owner
+Price: 140
+House price: 40
+Houses: 0
+With houses: 0	Taxes: 40
+With houses: 1	Taxes: 80
+With houses: 2	Taxes: 240
+
+Card 10:
+CARD_WITH_PROPERTY
+No owner
+Price: 180
+House price: 30
+Houses: 0
+With houses: 0	Taxes: 30
+With houses: 1	Taxes: 60
+With houses: 2	Taxes: 180
+
+Card 11:
+CARD_WITH_PROPERTY
+No owner
+Price: 110
+House price: 40
+Houses: 0
+With houses: 0	Taxes: 40
+With houses: 1	Taxes: 80
+With houses: 2	Taxes: 240
+
+Card 12:
+GO_TO_JAIL_CARD
+
+Card 13:
+CARD_WITH_PROPERTY
+No owner
+Price: 190
+House price: 70
+Houses: 0
+With houses: 0	Taxes: 70
+With houses: 1	Taxes: 140
+With houses: 2	Taxes: 420
+
+Card 14:
+CARD_WITH_PROPERTY
+No owner
+Price: 160
+House price: 30
+Houses: 0
+With houses: 0	Taxes: 30
+With houses: 1	Taxes: 60
+With houses: 2	Taxes: 180
+
+Card 15:
+CARD_WITH_PROPERTY
+No owner
+Price: 100
+House price: 45
+Houses: 0
+With houses: 0	Taxes: 45
+With houses: 1	Taxes: 90
+With houses: 2	Taxes: 270
+
+Players:
+Player 0:
+NORMAL
+Balance: 1820
+Own cards: 1
+Player 1:
+NORMAL
+Balance: 1870
+Own cards: 1
+Player 2:
+NORMAL
+Balance: 2000
+Own cards: 0
+Player 3:
+NORMAL
+Balance: 2000
+Own cards: 0
+
+14.12.2021 22:56:32.085 [main] INFO:
+User input: 2 (new game)
+14.12.2021 22:56:32.111 [main] INFO:
+Game load
+14.12.2021 22:56:32.114 [main] INFO:
+Field:
+Card 0:
+START_CARD
+Money for cycle: 300
+Player 2 on card
+Player 3 on card
+
+Card 1:
+CARD_WITH_PROPERTY
+No owner
+Price: 180
+House price: 65
+Houses: 0
+With houses: 0	Taxes: 65
+With houses: 1	Taxes: 130
+With houses: 2	Taxes: 390
+
+Card 2:
+CARD_WITH_PROPERTY
+Owner: Player 0
+Price: 180
+House price: 30
+Houses: 0
+With houses: 0	Taxes: 30
+With houses: 1	Taxes: 60
+With houses: 2	Taxes: 180
+Player 0 on card
+
+Card 3:
+CARD_WITH_PROPERTY
+No owner
+Price: 120
+House price: 65
+Houses: 0
+With houses: 0	Taxes: 65
+With houses: 1	Taxes: 130
+With houses: 2	Taxes: 390
+
+Card 4:
+GO_TO_JAIL_CARD
+
+Card 5:
+CARD_WITH_PROPERTY
+Owner: Player 1
+Price: 130
+House price: 45
+Houses: 0
+With houses: 0	Taxes: 45
+With houses: 1	Taxes: 90
+With houses: 2	Taxes: 270
+Player 1 on card
+
+Card 6:
+CARD_WITH_PROPERTY
+No owner
+Price: 110
+House price: 30
+Houses: 0
+With houses: 0	Taxes: 30
+With houses: 1	Taxes: 60
+With houses: 2	Taxes: 180
+
+Card 7:
+CARD_WITH_PROPERTY
+No owner
+Price: 110
+House price: 55
+Houses: 0
+With houses: 0	Taxes: 55
+With houses: 1	Taxes: 110
+With houses: 2	Taxes: 330
+
+Card 8:
+JAIL_CARD
+
+Card 9:
+CARD_WITH_PROPERTY
+No owner
+Price: 140
+House price: 40
+Houses: 0
+With houses: 0	Taxes: 40
+With houses: 1	Taxes: 80
+With houses: 2	Taxes: 240
+
+Card 10:
+CARD_WITH_PROPERTY
+No owner
+Price: 180
+House price: 30
+Houses: 0
+With houses: 0	Taxes: 30
+With houses: 1	Taxes: 60
+With houses: 2	Taxes: 180
+
+Card 11:
+CARD_WITH_PROPERTY
+No owner
+Price: 110
+House price: 40
+Houses: 0
+With houses: 0	Taxes: 40
+With houses: 1	Taxes: 80
+With houses: 2	Taxes: 240
+
+Card 12:
+GO_TO_JAIL_CARD
+
+Card 13:
+CARD_WITH_PROPERTY
+No owner
+Price: 190
+House price: 70
+Houses: 0
+With houses: 0	Taxes: 70
+With houses: 1	Taxes: 140
+With houses: 2	Taxes: 420
+
+Card 14:
+CARD_WITH_PROPERTY
+No owner
+Price: 160
+House price: 30
+Houses: 0
+With houses: 0	Taxes: 30
+With houses: 1	Taxes: 60
+With houses: 2	Taxes: 180
+
+Card 15:
+CARD_WITH_PROPERTY
+No owner
+Price: 100
+House price: 45
+Houses: 0
+With houses: 0	Taxes: 45
+With houses: 1	Taxes: 90
+With houses: 2	Taxes: 270
+
+Players:
+Player 0:
+NORMAL
+Balance: 1820
+Own cards: 1
+Player 1:
+NORMAL
+Balance: 1870
+Own cards: 1
+Player 2:
+NORMAL
+Balance: 2000
+Own cards: 0
+Player 3:
+NORMAL
+Balance: 2000
+Own cards: 0
+

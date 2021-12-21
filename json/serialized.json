@@ -1,0 +1,253 @@
+{
+  "players": [
+    {
+      "id": 0,
+      "money": 1820,
+      "status": "NORMAL"
+    },
+    {
+      "id": 1,
+      "money": 1870,
+      "status": "NORMAL"
+    },
+    {
+      "id": 2,
+      "money": 2000,
+      "status": "NORMAL"
+    },
+    {
+      "id": 3,
+      "money": 2000,
+      "status": "NORMAL"
+    }
+  ],
+  "cards": [
+    {
+      "Card": {
+        "moneyForCycle": 1000,
+        "onCard": [
+          {
+            "id": 2,
+            "money": 2000,
+            "status": "NORMAL"
+          },
+          {
+            "id": 3,
+            "money": 2000,
+            "status": "NORMAL"
+          }
+        ],
+        "type": "START_CARD"
+      }
+    },
+    {
+      "Card": {
+        "price": 180,
+        "housePrice": 65,
+        "taxes": [
+          65,
+          130,
+          390
+        ],
+        "houses": 0,
+        "onCard": [],
+        "type": "CARD_WITH_PROPERTY"
+      }
+    },
+    {
+      "Card": {
+        "owner": {
+          "id": 0,
+          "money": 1820,
+          "status": "NORMAL"
+        },
+        "price": 180,
+        "housePrice": 30,
+        "taxes": [
+          30,
+          60,
+          180
+        ],
+        "houses": 0,
+        "onCard": [
+          {
+            "id": 0,
+            "money": 1820,
+            "status": "NORMAL"
+          }
+        ],
+        "type": "CARD_WITH_PROPERTY"
+      }
+    },
+    {
+      "Card": {
+        "price": 120,
+        "housePrice": 65,
+        "taxes": [
+          65,
+          130,
+          390
+        ],
+        "houses": 0,
+        "onCard": [],
+        "type": "CARD_WITH_PROPERTY"
+      }
+    },
+    {
+      "Card": {
+        "onCard": [],
+        "type": "GO_TO_JAIL_CARD"
+      }
+    },
+    {
+      "Card": {
+        "owner": {
+          "id": 1,
+          "money": 1870,
+          "status": "NORMAL"
+        },
+        "price": 130,
+        "housePrice": 45,
+        "taxes": [
+          45,
+          90,
+          270
+        ],
+        "houses": 0,
+        "onCard": [
+          {
+            "id": 1,
+            "money": 1870,
+            "status": "NORMAL"
+          }
+        ],
+        "type": "CARD_WITH_PROPERTY"
+      }
+    },
+    {
+      "Card": {
+        "price": 110,
+        "housePrice": 30,
+        "taxes": [
+          30,
+          60,
+          180
+        ],
+        "houses": 0,
+        "onCard": [],
+        "type": "CARD_WITH_PROPERTY"
+      }
+    },
+    {
+      "Card": {
+        "price": 110,
+        "housePrice": 55,
+        "taxes": [
+          55,
+          110,
+          330
+        ],
+        "houses": 0,
+        "onCard": [],
+        "type": "CARD_WITH_PROPERTY"
+      }
+    },
+    {
+      "Card": {
+        "onCard": [],
+        "type": "JAIL_CARD"
+      }
+    },
+    {
+      "Card": {
+        "price": 140,
+        "housePrice": 40,
+        "taxes": [
+          40,
+          80,
+          240
+        ],
+        "houses": 0,
+        "onCard": [],
+        "type": "CARD_WITH_PROPERTY"
+      }
+    },
+    {
+      "Card": {
+        "price": 180,
+        "housePrice": 30,
+        "taxes": [
+          30,
+          60,
+          180
+        ],
+        "houses": 0,
+        "onCard": [],
+        "type": "CARD_WITH_PROPERTY"
+      }
+    },
+    {
+      "Card": {
+        "price": 110,
+        "housePrice": 40,
+        "taxes": [
+          40,
+          80,
+          240
+        ],
+        "houses": 0,
+        "onCard": [],
+        "type": "CARD_WITH_PROPERTY"
+      }
+    },
+    {
+      "Card": {
+        "onCard": [],
+        "type": "GO_TO_JAIL_CARD"
+      }
+    },
+    {
+      "Card": {
+        "price": 190,
+        "housePrice": 70,
+        "taxes": [
+          70,
+          140,
+          420
+        ],
+        "houses": 0,
+        "onCard": [],
+        "type": "CARD_WITH_PROPERTY"
+      }
+    },
+    {
+      "Card": {
+        "price": 160,
+        "housePrice": 30,
+        "taxes": [
+          30,
+          60,
+          180
+        ],
+        "houses": 0,
+        "onCard": [],
+        "type": "CARD_WITH_PROPERTY"
+      }
+    },
+    {
+      "Card": {
+        "price": 100,
+        "housePrice": 45,
+        "taxes": [
+          45,
+          90,
+          270
+        ],
+        "houses": 0,
+        "onCard": [],
+        "type": "CARD_WITH_PROPERTY"
+      }
+    }
+  ],
+  "currentPlayerId": 2
+}
